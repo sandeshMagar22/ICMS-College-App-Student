@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ICMS App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college"> The Institute of Crisis Management Studies is a newly established centre for academia focusing on the management of crisis resulting from both human activity and natural causes.
+        It offers a unique, multidisciplinary Master of Arts in Crisis Management, providing the very best national and international scholars, practitioners and experts currently engaged in the diverse areas pertaining to crisis.
+
+    </string>
+</resources>
